@@ -91,6 +91,6 @@ print(conta.sacar(200))
 ```
 
 ## Próximos Passos
-# Pratique os conceitos aprendidos e comece a aplicá-los em seus próprios projetos. Lembre-se, a prática leva à perfeição!
+### Pratique os conceitos aprendidos e comece a aplicá-los em seus próprios projetos. Lembre-se, a prática leva à perfeição!
 
-#Feliz Aprendizado! 🚀
+- Feliz Aprendizado! 🚀
